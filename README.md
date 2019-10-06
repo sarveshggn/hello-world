@@ -1,3 +1,3 @@
 # hello-world
-basic repository
+Basic Repository
  This is Sarvesh Joshi. 
